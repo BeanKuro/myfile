@@ -1,3 +1,3 @@
 # Multi-Thread_program
 -
-This is very simple multithreading java program.
+This is a very simple multithreading java program.
